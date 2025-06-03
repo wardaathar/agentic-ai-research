@@ -1,4 +1,4 @@
-# agentic-ai-research
+
 # Agentic AI Research
 
 This is a beginner-level project exploring Agentic AI with simple Python-based task agents.
